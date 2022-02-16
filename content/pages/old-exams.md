@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Prior Year Exams
 uid: 66408b99-8ea4-ad11-58f4-167bb945e57c
 ---

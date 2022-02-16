@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-837-computer-graphics-fall-2012/9f2095cd0900fc1e7ff51342c86171e5_a3soln.exe
+file: /media/courses/6-837-computer-graphics-fall-2012/9f2095cd0900fc1e7ff51342c86171e5_a3soln.exe
 file_type: application/x-msdos-program
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: a3soln.exe
 uid: 9f2095cd-0900-fc1e-7ff5-1342c86171e5
