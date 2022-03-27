@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2f610a3a-4ade-e0ff-11e9-c0ece5c872d3
 resourcetype: Document
 title: Ray tracing
 uid: c8f44300-de5d-6618-10d3-21d3ae30e916

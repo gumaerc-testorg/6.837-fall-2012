@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2f610a3a-4ade-e0ff-11e9-c0ece5c872d3
 resourcetype: Document
 title: Ray casting
 uid: 754e6d77-b8ee-d00a-e57f-2ef2371c7d00

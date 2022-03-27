@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2f610a3a-4ade-e0ff-11e9-c0ece5c872d3
 resourcetype: Other
 title: a4soln.exe
 uid: 50b72299-a37d-85ac-98b3-f64d2bd536c1

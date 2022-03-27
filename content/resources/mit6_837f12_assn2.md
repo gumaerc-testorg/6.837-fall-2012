@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2f610a3a-4ade-e0ff-11e9-c0ece5c872d3
 resourcetype: Document
 title: Hierarchical modeling, skinning
 uid: 59e619e7-92b6-5892-7c8e-79f3ab0116ec

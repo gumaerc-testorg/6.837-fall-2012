@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2f610a3a-4ade-e0ff-11e9-c0ece5c872d3
 resourcetype: Document
 title: Physically-based simulation
 uid: 2e73bf4e-8514-3a35-7755-d7da9d42b29a
