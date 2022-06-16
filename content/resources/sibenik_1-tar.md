@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-837-computer-graphics-fall-2012/b10c626f37b2070142529999e4160d68_sibenik_1.tar.gz
+file: /courses/6-837-computer-graphics-fall-2012/b10c626f37b2070142529999e4160d68_sibenik_1.tar.gz
 file_type: application/x-tar
 learning_resource_types:
 - Assignments
