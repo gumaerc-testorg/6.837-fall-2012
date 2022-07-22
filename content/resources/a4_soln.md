@@ -5,6 +5,7 @@ file: /courses/6-837-computer-graphics-fall-2012/166f684ebd20feef39a3ac6b0be2803
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

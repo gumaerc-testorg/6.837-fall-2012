@@ -5,6 +5,7 @@ file: /courses/6-837-computer-graphics-fall-2012/2e73bf4e85143a357755d7da9d42b29
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Physically-based simulation
 uid: 2e73bf4e-8514-3a35-7755-d7da9d42b29a
 ---
 This resource contains information regarding assignment 3.
-
