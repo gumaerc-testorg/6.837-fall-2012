@@ -1,127 +1,89 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, grading policy, prerequisites, assignments, collaboration policy,
+  and textbooks.
+draft: false
 title: Syllabus
 uid: f9a140a1-89a2-7c38-2820-73561c757f68
 ---
-
 This course makes use of Athena, MIT's UNIX-based computing environment. OCW does not provide access to this environment.
 
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 2 lectures / week, 1.5 hours / lectures
 
-Course Description
-------------------
+## Course Description
 
 In this course, we will concentrate on 3D, not 2D illustration or image processing. You will learn:
 
-*   Fundamentals of computer graphics algorithms
-*   Basics of real-time rendering and graphics hardware
-*   Basic OpenGL
-*   C++ programming experience
+- Fundamentals of computer graphics algorithms
+- Basics of real-time rendering and graphics hardware
+- Basic OpenGL
+- C++ programming experience
 
 You will NOT learn:
 
-*   OpenGL and DirectX hacks
-*   Software packages
-*   Artistic skills
-*   Game design
+- OpenGL and DirectX hacks
+- Software packages
+- Artistic skills
+- Game design
 
-Grading Policy
---------------
+## Grading Policy
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITIES
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 PERCENTAGES
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Assignments
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 75%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Quiz
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 10%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Final Exam
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 10%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Participation
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 5%
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
-
-{{< tableclose >}}
-
-Prerequisites
--------------
+## Prerequisites
 
 It is useful if you have knowledge of the following:
 
-*   C++: All assignments are in C++
-*   Calculus, Linear Algebra: Solving equations, derivatives, integral; vectors, matrices, basis, solving systems of equations
+- C++: All assignments are in C++
+- Calculus, Linear Algebra: Solving equations, derivatives, integral; vectors, matrices, basis, solving systems of equations
 
-Assignments
------------
+## Assignments
 
-*   Turn in code and executable (Athena Linux).
-*   Always turn in a README file: Describe problems, explain partially-working code, and say how long the assignment took.
-*   Coding style is important: Some assignments are cumulative.
-*   Collaboration policy: see below.
-*   Late policy:
+- Turn in code and executable (Athena Linux).
+- Always turn in a README file: Describe problems, explain partially-working code, and say how long the assignment took.
+- Coding style is important: Some assignments are cumulative.
+- Collaboration policy: see below.
+- Late policy:
+    -  The deadline is absolute. All late assignments will be graded 0. So, submit early, even before you might be fully done.
+    - Due Wednesday @ 8pm
+    - Extensions only considered if requested 1 week before due date
+    - Medical problems must be documented
 
-            –The deadline is absolute. All late assignments will be graded 0. So, submit early, even before you might be fully done.
+## Collaboration Policy
 
-            –Due Wednesday @ 8pm
+- You can chat, but code on your own (we use automated plagiarism detection software!)
+- Use Piazza message board
+- Help others on Piazza message board (will help your grade!)
+- Acknowledge your collaboration (in README)
+- Talk to each other, get a community going
 
-            –Extensions only considered if requested 1 week before due date
+## Textbooks
 
-            –Medical problems must be documented
-
-Collaboration Policy
---------------------
-
-*   You can chat, but code on your own (we use automated plagiarism detection software!)
-*   Use Piazza message board
-*   Help others on Piazza message board (will help your grade!)
-*   Acknowledge your collaboration (in README)
-*   Talk to each other, get a community going
-
-Textbooks
----------
-
-*   No textbook is required
-*   Recommendations
+- No textbook is required
+- Recommendations
 
 Watt, Alan. _3D Computer Graphics_. Addison-Wesley, 1999. ISBN: 9780201398557.
 
