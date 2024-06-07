@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding assignment 1.
 file: /courses/6-837-computer-graphics-fall-2012/96f343745a4bf6234a3c4f7cf3049f23_MIT6_837F12_assn1.pdf
+file_size: 589257
 file_type: application/pdf
 learning_resource_types:
 - Assignments

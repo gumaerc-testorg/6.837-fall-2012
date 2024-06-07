@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-837-computer-graphics-fall-2012/166f684ebd20feef39a3ac6b0be2803e_a4_soln.zip
+file_size: 54306
 file_type: application/zip
 learning_resource_types:
 - Assignments

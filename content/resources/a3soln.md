@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-837-computer-graphics-fall-2012/9f2095cd0900fc1e7ff51342c86171e5_a3soln.exe
+file_size: 45568
 file_type: application/x-msdos-program
 learning_resource_types:
 - Assignments
