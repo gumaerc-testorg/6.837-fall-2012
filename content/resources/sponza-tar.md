@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-837-computer-graphics-fall-2012/ace2e0058bdef0b812704d13f10d4e71_sponza.tar.gz
+file_size: 5682357
 file_type: application/x-tar
 learning_resource_types:
 - Assignments

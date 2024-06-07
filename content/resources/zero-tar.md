@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-837-computer-graphics-fall-2012/88d74839c0e561841c350cb416af3539_zero.tar.gz
+file_size: 964048
 file_type: application/x-tar
 learning_resource_types:
 - Assignments
