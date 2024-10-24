@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-837-computer-graphics-fall-2012/cfc919111ca92ad6381c3eea1ad6808a_one_mac.zip
+file: /ol-ocw-studio-app/courses/6-837-computer-graphics-fall-2012/cfc919111ca92ad6381c3eea1ad6808a_one_mac.zip
 file_size: 346994
 file_type: application/zip
 learning_resource_types:
