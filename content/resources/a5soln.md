@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-837-computer-graphics-fall-2012/0f28b1fca5b50bef0dfdf0513831ec6a_a5soln.exe
+file: /ol-ocw-studio-app/courses/6-837-computer-graphics-fall-2012/0f28b1fca5b50bef0dfdf0513831ec6a_a5soln.exe
 file_size: 91648
 file_type: application/x-msdos-program
 learning_resource_types:
