@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding assignment 5.
-file: /ol-ocw-studio-app/courses/6-837-computer-graphics-fall-2012/c8f44300de5d661810d321d3ae30e916_MIT6_837F12_assn5.pdf
+file: /courses/6-837-computer-graphics-fall-2012/c8f44300de5d661810d321d3ae30e916_MIT6_837F12_assn5.pdf
 file_size: 305478
 file_type: application/pdf
 learning_resource_types:
