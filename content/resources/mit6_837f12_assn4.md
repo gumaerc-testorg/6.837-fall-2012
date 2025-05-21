@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding assignment 4.
-file: /ol-ocw-studio-app/courses/6-837-computer-graphics-fall-2012/754e6d77b8eed00ae57f2ef2371c7d00_MIT6_837F12_assn4.pdf
+file: /courses/6-837-computer-graphics-fall-2012/754e6d77b8eed00ae57f2ef2371c7d00_MIT6_837F12_assn4.pdf
 file_size: 309461
 file_type: application/pdf
 learning_resource_types:
