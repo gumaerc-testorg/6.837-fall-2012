@@ -87,8 +87,8 @@ It is useful if you have knowledge of the following:
 
 Watt, Alan. _3D Computer Graphics_. Addison-Wesley, 1999. ISBN: 9780201398557.
 
-Buss, Samuel R. [_3D Computer Graphics: A Mathematical Introduction with OpenGL_](http://www.cambridge.org/us/catalogue/catalogue.asp?isbn=0521821037&ss=sam). 2003. ISBN: 9780521821032. \[Preview with [Google Books](http://books.google.com/books?id=LBm1khtUX0cC&pg=PA8frontcover)\]
+Buss, Samuel R. {{% resource_link "9920168f-fb71-40a9-a32c-fb4eca13d809" "_3D Computer Graphics: A Mathematical Introduction with OpenGL_" %}}. 2003. ISBN: 9780521821032. \[Preview with {{% resource_link "e78daf59-3bc7-4b73-b177-51fad04c9f09" "Google Books" %}}\]
 
 Akenine-Moller, Tomas, Eric Haines and Naty Hoffman. _Real-Time Rendering_. 3rd ed. A K Peters/CRC Press, 2008. ISBN: 9781568814247.
 
-Shirley, Peter, Michael Ashikhmin, Steve Marschner. _Fundamentals of Computer Graphics_. 3rd ed. A K Peters/CRC Press, 2009. ISBN: 9781568814698. \[Preview with [Google Books](http://books.google.com/books?id=hJPRgRrkXvUC&pg=PA8frontcover)\]
+Shirley, Peter, Michael Ashikhmin, Steve Marschner. _Fundamentals of Computer Graphics_. 3rd ed. A K Peters/CRC Press, 2009. ISBN: 9781568814698. \[Preview with {{% resource_link "9b86d208-7181-4135-9bd1-971775cd1456" "Google Books" %}}\]
